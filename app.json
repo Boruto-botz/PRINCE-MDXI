@@ -20,12 +20,12 @@
       "value": "public"
     },
     "OWNER_NAME": {
-      "description": "Put Owner Name Here",
+      "description": "TREVOR AKA BWOYICONIC",
       "required": true,
       "value": "PRINCE"
     },
     "OWNER_NUMBER": {
-      "description": "Put only one Owner Number Here ie 237xxxxx",
+      "description": "256773374844",
       "required": true,
       "value": "237677224245"
     },
