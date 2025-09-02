@@ -8,7 +8,7 @@
   
   "env": {
     "SESSION_ID": {
-      "description": "Must Start with 'PRINCE-MDX~'",
+      "description": "PRINCE-MDX~mlkBXMiuYROc2ZFsmsZk",
       "required": true,
       "value": ""
     },  
